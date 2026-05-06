@@ -63,5 +63,5 @@ Features:
 
 Darshan Suresh
 
-BCA / MCA – Cybersecurity & Development
+MCA – Cybersecurity & Development
 Amrita University
